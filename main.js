@@ -24,7 +24,7 @@ let result = 0.21 * distance
 document.getElementById("result").innerHTML = result;
 
 if (age < 18){
- pricePerKm (0.21 * 0.2 * distance));
+ pricePerKm (0.21 * 0.2 * distance);
 } 
 
 // if else (age > 65){
