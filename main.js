@@ -20,5 +20,5 @@ else {
 result = 0.21 * distance;
 }
 
-document.getElementById("result").innerHTML=result.toFixed(2)
+document.getElementById("result").innerHTML=result.toFixed(2);
 
